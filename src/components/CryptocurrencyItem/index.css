@@ -1,0 +1,28 @@
+.cryptocurrency-list-item {
+  list-style-type: none;
+}
+
+.currency-coin-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.currency-logo {
+  height: 26px;
+  width: 26px;
+  margin-right: 10px;
+}
+
+.currency-item-text-size {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+
+  color: #ffffff;
+}
